@@ -1,6 +1,6 @@
 # Structural-Programming-Language
 
-C programming exercises and laboratory assignments completed while
+C programming exercises and assignments completed while
 learning Structured Programming.
 ## Topics Covered
 W3School Tutorial and Assignments
